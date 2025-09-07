@@ -12,6 +12,6 @@ author='aviral rai',
 author_email='aviralrai22@gmail.com',
 #this will automatically finds the folders need to install
 packages=find_packages(),
-install_requires=['numpy','pandas']
+install_requires=['numpy','pandas','streamlit','scikit-learn']
 
 )
