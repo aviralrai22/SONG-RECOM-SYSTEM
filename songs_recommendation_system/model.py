@@ -1,6 +1,6 @@
 import numpy as np 
 import pandas as pd
-songs=pd.read_csv("E:\machine_learning _projects\songs_recommendation_system\dataset.csv")
+songs=pd.read_csv("songs_recommendation_system\dataset.csv")
 
 
 #to see all the columns without truncation
